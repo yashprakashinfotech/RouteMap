@@ -46,4 +46,6 @@ dependencies {
     implementation 'com.google.android.libraries.places:places:2.6.0'
     // To make a call to for getting Coordinates response from a Web URL
     implementation 'com.squareup.okhttp3:okhttp:4.9.3'
+
+//    implementation 'com.google.android.gms:play-services-maps:18.0.2'
 }
